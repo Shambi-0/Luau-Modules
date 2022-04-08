@@ -2,7 +2,7 @@
 
 MIT License
 
-Copyright (C) 2021, Luc Rodriguez (Aliases : Shambi, StyledDev).
+Copyright (C) 2022, Luc Rodriguez (Aliases : Shambi, StyledDev).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
