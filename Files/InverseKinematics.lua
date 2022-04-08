@@ -54,7 +54,7 @@ end;
 -- Example :
 
 local Plane : CFrame, ShoulderAngle : number, ElbowAngle : number = InverseKinematics(
-	UpperTorso.CFrame * ShoulderOrigin, -- CFrame of the shoulder
+	UpperTorso.CFrame * ShoulderOrigin,
 	Target.Position, 0.515, 1.031
 );
 
