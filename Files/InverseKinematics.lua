@@ -51,7 +51,7 @@ local function InverseKinematics(Origin : CFrame, Target : Vector3, UpperLength 
 	end;
 end;
 
--- Example :
+-->> Usage Example <<--
 
 local Plane : CFrame, ShoulderAngle : number, ElbowAngle : number = InverseKinematics(
 	UpperTorso.CFrame * ShoulderOrigin,
