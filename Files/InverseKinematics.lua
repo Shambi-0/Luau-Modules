@@ -60,3 +60,5 @@ local Plane : CFrame, ShoulderAngle : number, ElbowAngle : number = InverseKinem
 
 local ShoulderCFrame : CFrame = UpperTorso.CFrame:ToObjectSpace(Plane) * CFrame.Angles(ShoulderAngle, 0, 0);
 local ElbowCFrame : CFrame = ElbowOrigin * CFrame.Angles(ElbowAngle, 0, 0);
+
+-- NOTE : UpperTorso, ShoulderOrigin, ElbowOrigin and Target; are all not provided in this example.
